@@ -8,7 +8,7 @@ Introducing a versatile stopwatch application crafted with React and CSS, and en
 
 ## Deployment Screenshot
 
-![deployment-screenshot](assets/images/deployment.jpg)
+![deployment-screenshot](src\assets\deployment.jpg)
 
 [Deployment Link]()
 
